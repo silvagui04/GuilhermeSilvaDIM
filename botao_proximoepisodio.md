@@ -1,4 +1,4 @@
-# 🎬 Análise de Interface: Botão "Próximo Episódio" (Prime Video)
+# Análise de Interface: Botão "Próximo Episódio" (Prime Video)
 
 Estudo de caso e análise de usabilidade do botão **"Próximo episódio"** na plataforma Prime Video, com base nas qualidades de *Design de Interação*: **Affordances**, **Signifiers**, **Feedback** e **Acessibilidade**.
 
