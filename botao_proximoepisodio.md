@@ -1,8 +1,5 @@
 # 🎬 Análise de Interface: Botão "Próximo Episódio" (Prime Video)
 
-[![Prime Video](https://img.shields.io/badge/Platform-Amazon%20Prime%20Video-00A8E1?style=for-the-badge&logo=primevideo&logoColor=white)](#)
-[![Topic](https://img.shields.io/badge/UX%2FUI-Design%20de%20Intera%C3%A7%C3%A3o-orange?style=for-the-badge)](#)
-
 Estudo de caso e análise de usabilidade do botão **"Próximo episódio"** na plataforma Prime Video, com base nas qualidades de *Design de Interação*: **Affordances**, **Signifiers**, **Feedback** e **Acessibilidade**[cite: 2].
 
 ---
