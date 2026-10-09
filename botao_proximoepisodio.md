@@ -16,7 +16,7 @@ O elemento escolhido para esta análise é o botão **“Próximo episódio”**
 
 A ação principal é **avançar diretamente para o episódio seguinte da série**.
 
-* **Comportamento:** Ao ser selecionado, o Prime Video inicia a reprodução do episódio seguinte (caso esteja disponível e ativo no contexto)[cite: 1].
+* **Comportamento:** Ao ser selecionado, o Prime Video inicia a reprodução do episódio seguinte (caso esteja disponível e ativo no contexto).
 * **Localização na Interface:** O botão surge normalmente durante a exibição dos créditos ou fixo junto aos controlo gerais de vídeo.
 
 ---
@@ -24,8 +24,8 @@ A ação principal é **avançar diretamente para o episódio seguinte da série
 ### Que ações *parece* permitir (*affordances*)?
 
 * **Aparência de Botão:** O formato tridimensional/destacado e o texto indicam claramente que o elemento pode ser clicado, tocado ou selecionado.
-* **Correspondência com a Realidade:** A *affordance* percebida está totalmente alinhada com a ação real: o utilizador reconhece um elemento interativo e espera que, ao ativá-lo, o vídeo mude para o próximo episódio[cite: 1].
-* **Representação Simplificada:** Caso seja representado apenas por um ícone isolado (sem texto), a intenção pode tornar-se menos evidente para utilizadores menos familiarizados[cite: 1].
+* **Correspondência com a Realidade:** A *affordance* percebida está totalmente alinhada com a ação real: o utilizador reconhece um elemento interativo e espera que, ao ativá-lo, o vídeo mude para o próximo episódio.
+* **Representação Simplificada:** Caso seja representado apenas por um ícone isolado (sem texto), a intenção pode tornar-se menos evidente para utilizadores menos familiarizados.
 
 ---
 
