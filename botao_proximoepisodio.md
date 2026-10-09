@@ -35,17 +35,17 @@ Os *signifiers* sinalizam onde e como interagir:
 
 | Signifier | Função / Papel na Interface |
 | :--- | :--- |
-| 📝 **Texto "Próximo episódio"** | Comunica de forma explícita a ação do botão. |
-| ⏩ **Ícone de avanço** | Simbolo gráfico universal de "passar à frente". |
-| 🔘 **Forma e contraste** | Destaque visual que sugere um componente clicável. |
-| 📍 **Posicionamento** | Situado junto aos controlos de reprodução ou sobre os créditos. |
-| ⏱️ **Contagem decrescente** | Sinaliza visualmente a transição automática iminente. |
+|  **Texto "Próximo episódio"** | Comunica de forma explícita a ação do botão. |
+|  **Ícone de avanço** | Simbolo gráfico universal de "passar à frente". |
+|  **Forma e contraste** | Destaque visual que sugere um componente clicável. |
+|  **Posicionamento** | Situado junto aos controlos de reprodução ou sobre os créditos. |
+|  **Contagem decrescente** | Sinaliza visualmente a transição automática iminente. |
 
 ---
 
 ### Algum *signifier* contraria a forma?
 
-* ⚠️ **Potenciais Problemas de Usabilidade:**
+*  **Potenciais Problemas de Usabilidade:**
 *
 * 1. **Pouca Visibilidade / Ocultação:** Se o botão aparecer apenas durante os créditos de forma discreta ou misturado com outros ícones, o utilizador pode não o notar ou não perceber que permite avançar.
 * 2. **Autoplay Automático:** A presença de uma contagem decrescente para início automático pode causar ambiguidade: o utilizador pode não perceber que o vídeo vai avançar sozinho ou ter pouco tempo para cancelar a ação.
@@ -68,7 +68,7 @@ Os *signifiers* sinalizam onde e como interagir:
 - Seleção acidental por parte do utilizador.
 - Início automático indesejado devido ao *autoplay*.
 
-#### 💡 Resposta Ideal da Interface:
+####  Resposta Ideal da Interface:
 A interface deve fornecer mensagens claras de estado (ex.: *"A carregar o próximo episódio..."*) e, em caso de falha de rede ou sistema, disponibilizar a opção explícita de **"Tentar novamente"**.
 
 ---
