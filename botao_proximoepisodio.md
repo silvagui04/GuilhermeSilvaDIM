@@ -73,5 +73,5 @@ A interface deve fornecer mensagens claras de estado (ex.: *"A carregar o próxi
 ---
 
 ### Funciona sem visão ou sem rato?
--Sem Rato (Teclado/Comando): Requer que o botão receba foco visual claro e possa ser ativado via Enter/Espaço.
--Sem Visão (Screen Reader): Necessita de rótulo acessível explicito (ex: aria-label="Próximo episódio").
+- Sem Rato (Teclado/Comando): Requer que o botão receba foco visual claro e possa ser ativado via Enter/Espaço.
+- Sem Visão (Screen Reader): Necessita de rótulo acessível explicito (ex: aria-label="Próximo episódio").
