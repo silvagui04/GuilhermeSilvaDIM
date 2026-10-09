@@ -45,11 +45,11 @@ Os *signifiers* sinalizam onde e como interagir:
 
 ### Algum *signifier* contraria a forma?
 
-> ⚠️ **Potenciais Problemas de Usabilidade:**
->
-> 1. **Pouca Visibilidade / Ocultação:** Se o botão aparecer apenas durante os créditos de forma discreta ou misturado com outros ícones, o utilizador pode não o notar ou não perceber que permite avançar.
-> 2. **Autoplay Automático:** A presença de uma contagem decrescente para início automático pode causar ambiguidade: o utilizador pode não perceber que o vídeo vai avançar sozinho ou ter pouco tempo para cancelar a ação.
-> 3. **Variação de Interface:** O comportamento varia conforme a versão da aplicação, o dispositivo (TV, Mobile, Web) e as definições de conta.
+* ⚠️ **Potenciais Problemas de Usabilidade:**
+*
+* 1. **Pouca Visibilidade / Ocultação:** Se o botão aparecer apenas durante os créditos de forma discreta ou misturado com outros ícones, o utilizador pode não o notar ou não perceber que permite avançar.
+* 2. **Autoplay Automático:** A presença de uma contagem decrescente para início automático pode causar ambiguidade: o utilizador pode não perceber que o vídeo vai avançar sozinho ou ter pouco tempo para cancelar a ação.
+* 3. **Variação de Interface:** O comportamento varia conforme a versão da aplicação, o dispositivo (TV, Mobile, Web) e as definições de conta.
 
 ---
 
