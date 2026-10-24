@@ -2,3 +2,5 @@
 
 Não foi possível disponibilizar um link público do protótipo, uma vez que o Figma exige um plano pago para permitir o acesso público apenas à apresentação do protótipo.
 No plano gratuito, o acesso está limitado pelas permissões da plataforma, pelo que não consegui garantir que qualquer pessoa pudesse visualizar e testar o protótipo sem iniciar sessão.
+
+## Devido a esse problema foi gravado uma pequena demonstração do funcionamento do protótipo para permitir mostrar o funcionamento correto do mesmo
